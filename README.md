@@ -43,3 +43,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the contributors and the community for their support.
 
 Feel free to explore the code and contribute!
+
+<img width="1909" height="994" alt="Screenshot 2025-11-10 190026" src="https://github.com/user-attachments/assets/13698df5-6128-4553-9a4e-82e137f6078f" />
+
+
